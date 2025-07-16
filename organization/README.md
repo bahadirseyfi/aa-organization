@@ -1,1 +1,1 @@
-# Organization Project (2.4 state)
+# Organization 2.4
